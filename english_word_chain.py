@@ -1,3 +1,5 @@
+# 프로그래머스 코딩테스트 - 영어 끝말잇기(Lv2)
+
 from itertools import cycle
 
 def solution(n, words):
